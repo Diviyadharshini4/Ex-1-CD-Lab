@@ -1,3 +1,6 @@
+# Name: Diviya dharshini.A
+# Reg no: 212224040080
+# Date:21.02.25
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
 # Register Number :212224040080
 # Date : 10/4/2025
